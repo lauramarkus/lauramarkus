@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauramarkus
-- 👀 I’m interested in remote working, beekeeping, using technology to help people who work in agriculture
+- 👀 I’m interested in remote working, beekeeping, using technology in agriculture
 - 🌱 I’m currently learning Javascript and WordPress
 - 💞️ I’m looking to collaborate on simple projects, proofreading, editing
 - 📫 How to reach me laura@laura-m.it
